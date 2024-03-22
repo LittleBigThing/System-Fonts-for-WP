@@ -1,0 +1,35 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/font-collection.json",
+	"font_families": [
+		{
+			"font_family_settings": {
+				"fontFamily": "system-ui, sans-serif",
+				"slug": "sans-serif",
+				"name": "Sans Serif"
+			},
+			"categories": [
+				"sans-serif"
+			]
+		},
+		{
+			"font_family_settings": {
+				"fontFamily": "Iowan Old Style, Apple Garamond, Baskerville, Times New Roman, Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol",
+				"slug": "serif",
+				"name": "Serif"
+			},
+			"categories": [
+				"serif"
+			]
+		},
+		{
+			"font_family_settings": {
+				"fontFamily": "ui-monospace, Cascadia Code, Source Code Pro, Menlo, Consolas, DejaVu Sans Mono, monospace",
+				"slug": "monospace",
+				"name": "Monospace"
+			},
+			"categories": [
+				"monospace"
+			]
+		}
+	]
+}
